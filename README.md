@@ -41,4 +41,5 @@ BOAZ 21기 분석 미니프로젝트 4조
 </br>
 
 ## ETCs
+[중간 발표 자료](https://www.notion.so/323cb70e5bf347f88560c9d606859502?pvs=4) 참고
 <br/><br/>
